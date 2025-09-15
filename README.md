@@ -20,7 +20,8 @@ I enjoy building modern web applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiwan-k99&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=keiwan-k99&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=keiwan-k99&theme=radical)
+
 
 ---
 
