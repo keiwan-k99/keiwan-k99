@@ -7,10 +7,15 @@ I enjoy building modern web applications.
 
 ## 🚀 Tech Stack  
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)  
+
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)  
+
 ![Git](https://img.shields.io/badge/Tools-Git-red?logo=git)  
+
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)  
 
 ---
@@ -19,7 +24,8 @@ I enjoy building modern web applications.
 ![Keiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiwan-k99&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiwan-k99&layout=compact&theme=radical)  
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keiwan-k99&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keiwan-k99&theme=tokyonight)
+
 
 
 
