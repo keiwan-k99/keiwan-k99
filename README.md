@@ -1,37 +1,55 @@
-# Hi there 👋, I'm Keiwan  
+# Hi, I'm Keiwan
 
-💻 Front-end Developer 
-I enjoy building modern web applications.  
+Front-end developer and MQL5 tooling author. I build modern web applications and
+practical trading tools for MetaTrader 5.
 
----
-
-## 🚀 Tech Stack  
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
-
-![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)  ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)  
-
-![Git](https://img.shields.io/badge/Tools-Git-red?logo=git)  ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)  
-
-
+📍 Based in Esfahan
 
 ---
 
-## 📊 GitHub Stats  
-![Keiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiwan-k99&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiwan-k99&layout=compact&theme=radical)  
+## Tech Stack
 
+**Front-end**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keiwan-k99&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**Trading / Automation**
 
-
+![MQL5](https://img.shields.io/badge/MQL5-4B8BBE?style=flat-square&logo=meta&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-0E1F35?style=flat-square)
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/keiwan-k99)  
+## Featured Project
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/keiwan_k99)  
+### [RiskDesk-MT5](https://github.com/keiwan-k99/RiskDesk-MT5)
+
+A professional risk & trade management panel for MetaTrader 5.
+
+- Risk-based position sizing (percent of balance/equity or fixed money)
+- Draggable entry, SL, and TP with automatic direction flip for pending orders
+- Break-even, trailing stop, partial take-profits, and daily loss protection
+- Compact, collapsible, fully themable UI
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=keiwan-k99)
+## GitHub Stats
+
+![Keiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiwan-k99&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keiwan-k99&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Connect
+
+- **Telegram:** [@keiwan_k99](https://t.me/keiwan_k99)
+- **GitHub:** [@keiwan-k99](https://github.com/keiwan-k99)
+
+---
+
+<sub>Always learning. Always shipping.</sub>
