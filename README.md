@@ -47,7 +47,8 @@ A professional risk & trade management panel for MetaTrader 5.
 ## Connect
 
 - **Telegram:** [@keiwan_k99](https://t.me/keiwan_k99)
-- **GitHub:** [@keiwan-k99](https://github.com/keiwan-k99)
+- **Telegram:** [@keiwan_dev](https://t.me/keiwan_dev) — project updates & devlogs
+- **LinkedIn:** [@keiwan-k99](https://www.linkedin.com/keiwan-k99/)
 
 ---
 
