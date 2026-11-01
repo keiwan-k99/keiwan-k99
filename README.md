@@ -9,6 +9,8 @@ practical trading tools for MetaTrader 5.
 
 ## Tech Stack
 
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
