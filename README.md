@@ -40,14 +40,6 @@ A professional risk & trade management panel for MetaTrader 5.
 
 ---
 
-## GitHub Stats
-
-![Keiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiwan-k99&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keiwan-k99&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Connect
 
 - **Telegram:** [@keiwan_k99](https://t.me/keiwan_k99)
